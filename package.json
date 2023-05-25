@@ -1,0 +1,22 @@
+{
+  "name": "saison-4-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js", 
+  "scripts": {
+    "test": "npx hardhat test",
+    "build": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js --network goerli"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "chai": "^4.3.7",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
