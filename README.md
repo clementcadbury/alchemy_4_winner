@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# Sample Deploy and contract call project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+https://university.alchemy.com/course/ethereum/md/639a4cc4033c9b0004051a69
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Address used : 0x1fc1696a0774a452134B2D248133091Bef8Cba03
+Contract Win created on Goerli : 0x892A24339a35751148c4B145144c4307ca82c611
+Targeted Alchemy University contract : 0xcF469d3BEB3Fc24cEe979eFf83BE33ed50988502
+win transaction : 0x93174d5cb37e396e14cfe3bf13b3520cffcdb658be242f007f436da472f62f01
